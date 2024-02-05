@@ -1,4 +1,4 @@
-# Forage: KPMG Data Analytics Consulting Virtual Internship
+# Forage | KPMG Data Analytics Consulting Virtual Internship
 
 
  * Completed a simulation focused on advising a client on customer targeting
